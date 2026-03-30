@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 🎓 B.Tech CSE (AI) @ Manipal Academy of Higher Education  
 📍 Bengaluru, India  
 💡 Building at the intersection of full-stack systems + machine learning
